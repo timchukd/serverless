@@ -7,3 +7,6 @@ jspm_packages
 
 # Serverless directories
 .serverless
+
+# AWS
+aws/my-key-pair.pem
